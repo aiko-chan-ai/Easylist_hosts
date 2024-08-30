@@ -74,13 +74,18 @@ jobs:
          sudo rm -rf easylist-master
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
-      - name: Commit files # transfer the new html files back into the repository
+      - name: Set up Git user
         run: |
-         git config --local user.name "Update"
-         git add .
-         git commit -m "Updating the hosts files"
-      - name: Push changes # push the output folder to your repo
+          git config --local user.name "Update"
+          git config --local user.email "update@example.com"
+
+      - name: Commit files
+        run: |
+          git add .
+          git commit -m "Updating the hosts files"
+
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         force: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
