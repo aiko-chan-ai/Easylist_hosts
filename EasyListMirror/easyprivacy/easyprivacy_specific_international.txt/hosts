@@ -463,7 +463,11 @@
 0.0.0.0 cdtm.cdiscount.com
 0.0.0.0 compteur.developpez.com
 0.0.0.0 datalayer.orange.fr
+0.0.0.0 dd.bellesdemeures.com
 0.0.0.0 dd.leboncoin.fr
+0.0.0.0 dd.seloger-bureaux-commerces.com
+0.0.0.0 dd.seloger.com
+0.0.0.0 dd.selogerneuf.com
 0.0.0.0 e.legalstart.fr
 0.0.0.0 events-logs.doctolib.com
 0.0.0.0 flow.kiloutou.fr
@@ -729,6 +733,7 @@
 0.0.0.0 analytics.tio.ch
 0.0.0.0 analytics.traderlink.com
 0.0.0.0 as.payback.it
+0.0.0.0 ayo.arredoitaliano.it
 0.0.0.0 c.corriere.it
 0.0.0.0 click.tv.repubblica.it
 0.0.0.0 clickserver.libero.it
@@ -851,8 +856,10 @@
 0.0.0.0 kropka.onet.pl
 0.0.0.0 mklik.gazeta.pl
 0.0.0.0 p.gazeta.pl
+0.0.0.0 pb.siepomaga.pl
 0.0.0.0 pixel.wp.pl
 0.0.0.0 rek.www.wp.pl
+0.0.0.0 sentry.siepomaga.pl
 0.0.0.0 ss.woodupp.pl
 0.0.0.0 stats.teledyski.info
 0.0.0.0 yctjw54slxrwwlh.trybawaryjny.pl
@@ -950,6 +957,7 @@
 0.0.0.0 sst.cooperativa.cl
 0.0.0.0 statsmp2.emol.com
 0.0.0.0 t-pan.triodos.com
+0.0.0.0 targetone-callback.chedraui.com.mx
 0.0.0.0 tracker.jkplayers.com
 0.0.0.0 unm.emol.com
 0.0.0.0 wssgmstats.vibbo.com
