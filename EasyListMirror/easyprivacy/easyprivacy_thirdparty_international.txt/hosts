@@ -74,6 +74,7 @@
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 trecker.aklamio.com
 0.0.0.0 tw.reppublika.com
+0.0.0.0 umami.askrella.de
 0.0.0.0 vtrtl.de
 0.0.0.0 webcounter.goweb.de
 0.0.0.0 x.bloggurat.net
@@ -411,11 +412,13 @@
 0.0.0.0 collect.chaordicsystems.com
 0.0.0.0 events.chaordicsystems.com
 0.0.0.0 feature-flag-edge.live.clickbus.net
+0.0.0.0 gke.econodata.com.br
 0.0.0.0 hitserver.ibope.com.br
 0.0.0.0 lurker.olx.com.br
 0.0.0.0 nctrk.abmail.com.br
 0.0.0.0 neurotrack.neurolake.io
 0.0.0.0 pageviews.tray.com.br
+0.0.0.0 pixel.leadlovers.app
 0.0.0.0 sat.soluall.net
 0.0.0.0 segmentor.snowfox-ai.com
 0.0.0.0 statistic.audima.co
