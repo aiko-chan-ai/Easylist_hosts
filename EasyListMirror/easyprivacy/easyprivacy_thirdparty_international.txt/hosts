@@ -200,6 +200,7 @@
 0.0.0.0 i.imedia.cz
 0.0.0.0 log.cpex.cz
 0.0.0.0 log.idnes.cz
+0.0.0.0 m.1gr.cz
 0.0.0.0 mer.stdout.cz
 0.0.0.0 pixel.biano.cz
 0.0.0.0 pixel.cpex.cz
@@ -233,6 +234,7 @@
 0.0.0.0 analytics.palitra.ge
 0.0.0.0 links.boom.ge
 0.0.0.0 event-tracker-library.mediaownerscloud.com
+0.0.0.0 metrics.find.gr
 0.0.0.0 stats-real-clients.zentech.gr
 0.0.0.0 tag.weezmo.com
 0.0.0.0 heartbeat.pmd.444.hu
