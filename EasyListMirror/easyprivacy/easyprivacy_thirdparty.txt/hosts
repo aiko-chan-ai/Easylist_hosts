@@ -364,6 +364,7 @@
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dl.episerver.net
+0.0.0.0 doh.cq0.co
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-client-events.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
@@ -1131,6 +1132,7 @@
 0.0.0.0 trx.zip.co
 0.0.0.0 try.abtasty.com
 0.0.0.0 ts.tradetracker.net
+0.0.0.0 tzm.px-cloud.net
 0.0.0.0 uaas.yandex.ru
 0.0.0.0 ubm.docu.info
 0.0.0.0 ucounter.ucoz.net
