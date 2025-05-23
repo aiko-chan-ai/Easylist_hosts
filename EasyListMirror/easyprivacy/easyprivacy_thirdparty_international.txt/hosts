@@ -257,9 +257,11 @@
 0.0.0.0 dmpmetrics.rcsmetrics.it
 0.0.0.0 eventsink.api.redbee.live
 0.0.0.0 evnt.iol.it
+0.0.0.0 fa5.dn4.it
 0.0.0.0 heatmaps.lcisoft.it
 0.0.0.0 limone.iltrovatore.it
 0.0.0.0 livestats.matrix.it
+0.0.0.0 load.nootiz.com
 0.0.0.0 log.edidomus.it
 0.0.0.0 logger.kataweb.it
 0.0.0.0 nanostats.nanopress.it
@@ -271,6 +273,7 @@
 0.0.0.0 stats.itsol.it
 0.0.0.0 stats.rcsobjects.it
 0.0.0.0 tag.triboomedia.it
+0.0.0.0 tr.brand-fresh.it
 0.0.0.0 tr.bt.matrixspa.it
 0.0.0.0 track.cedsdigital.it
 0.0.0.0 track.eadv.it
