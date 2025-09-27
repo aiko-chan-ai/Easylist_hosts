@@ -227,6 +227,7 @@
 0.0.0.0 bi-metrics.aramuz.net
 0.0.0.0 bi.heyloyalty.com
 0.0.0.0 bi.medscape.com
+0.0.0.0 bi.pst.tech
 0.0.0.0 bmrg.reflected.net
 0.0.0.0 bonfire.spklw.com
 0.0.0.0 botdetection.hbrsd.com
@@ -349,6 +350,7 @@
 0.0.0.0 creator.zmags.com
 0.0.0.0 crta.and.co.uk
 0.0.0.0 crta.dailymail.co.uk
+0.0.0.0 cs.zg-api.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp-reporting.cloudflare.com
@@ -1243,6 +1245,7 @@
 0.0.0.0 watchtower.graindata.com
 0.0.0.0 wco.crownpeak.com
 0.0.0.0 wds.weqs.me
+0.0.0.0 web-beacon.starii-rover.com
 0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 web1.51.la
 0.0.0.0 websdk.appsflyer.com
